@@ -1,6 +1,6 @@
 ﻿# Flight Booking System
 
-A full-stack flight reservation system built around a relational database schema (MySQL 8.0+), RESTful API, and vanilla JavaScript SPA front-end.
+A full-stack flight reservation system built around a relational database schema (MySQL 8.0+), RESTful API, and vanilla JavaScript SPA front-end. :)
 
 ---
 
